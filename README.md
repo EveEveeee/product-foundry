@@ -4,7 +4,9 @@
 
 产品工坊是我围绕 AI 产品经理工作流程推进的个人项目。重点解决三个问题：产品资料和工具分散、AI 把建议当成用户决定、需求变化后配套文档不同步。
 
-![产品工坊桌面工作台](assets/desktop-home.png)
+![产品工坊当前深色桌面界面](assets/product-foundry-dark.png)
+
+*当前深色桌面界面的模型对比台。此图展示界面，不作为历史真实模型调用的验收证据。*
 
 [个人网站项目案例](https://wangyangjuan.surge.sh/projects/product-foundry.html) · [关键产品决策](docs/product-decisions.md) · [验证与限制](docs/validation.md) · [实现来源与证据](docs/provenance.md)
 
@@ -32,10 +34,6 @@
 用户提交“帮我整理行业新闻的 Agent”想法，经过讨论确定用户、范围和排除项；系统先生成 PRD 草稿，用户补全并确认一个版本，再生成与该版本对应的技术方案。后续修改需求时，旧方案显示待更新；AI 修改先预览，由用户决定是否接受。
 
 该流程属于需求规划原型。桌面模型比较和独立审查 POC 分别验证自己的任务，不把它们写成已经串联完成的一条自动流程。
-
-![配套需求规划原型](assets/planning-workbench.png)
-
-*原型的历史界面名称为 Idea Foundry／初造。图中为本机示例界面。*
 
 ## 已验证与下一步
 
